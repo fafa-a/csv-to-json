@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  papaparse: ^5.3.2
+
+dependencies:
+  papaparse: 5.3.2
+
+packages:
+
+  /papaparse/5.3.2:
+    resolution: {integrity: sha512-6dNZu0Ki+gyV0eBsFKJhYr+MdQYAzFUGlBMNj3GNrmHxmz1lfRa24CjFObPXtjcetlOv5Ad299MhIK0znp3afw==}
+    dev: false
